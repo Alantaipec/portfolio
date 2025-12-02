@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Alan</h1>
-<h3 align="center">Estudiante de Ingeniería en Ciencia de Datos | Pasante de Transformación de Datos en Multicines SA</h3>
+<h3 align="center">Estudiante de Ingeniería en Ciencia de Datos</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python&logoColor=white" />
@@ -12,7 +12,7 @@
 
 ## 🌟 ¿Quién soy?
 
-Soy un futuro científico de datos con enfoque en **transformación, análisis y modelado predictivo**, actualmente trabajando con datos reales de la industria cinematográfica en **Multicines SA (Ecuador)**.
+Soy un futuro científico de datos con enfoque en **transformación, análisis y modelado predictivo****.
 
 Me gusta resolver problemas con código, limpiar datos complejos, crear modelos estadísticos y diseñar pipelines reproducibles.
 
