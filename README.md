@@ -87,7 +87,7 @@ cd portfolio
 
 ## 📬 Contacto
 
-* **Email:** [alan@tuemail.com](mailto:alan@tuemail.com)
+* **Email:** [alantaipe31@gmail.com](gmail.com:alantaipe31@gmail.com)
 * **LinkedIn:** (agrega tu enlace aquí)
 * **Ubicación:** Ecuador
 
